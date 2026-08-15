@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="112" fill="#08090b"/>
+<path d="M125 100h245v70H198v72h145v68H198v102h-73z" fill="#f4f4f5"/>
+<path d="M342 100h45v312h-73V172h-55v-72z" fill="#ff7a00"/>
+<text x="256" y="458" text-anchor="middle" font-family="Arial,sans-serif" font-size="46" font-weight="900" fill="#ff7a00">FORG3D</text>
+</svg>
